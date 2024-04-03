@@ -1,0 +1,58 @@
+.img-fluid{
+    width: 100%;
+}
+
+.logo{
+    width: 3rem;
+}
+
+
+
+
+
+@media (min-width: 375px) {
+    .ul2 {
+        color: brown;
+        margin-left: 16rem;
+        margin-top: -3rem;
+    }
+
+    .social-media {
+        margin-left: 2rem;
+    }
+  }
+
+@media (min-width: 576px) {
+    .social-media {
+        margin-left: 17rem;
+        margin-top: -8rem;
+    }
+    .ul2 {
+        color: brown;
+        margin-left: 10rem;
+        margin-top: -2rem;
+    }
+
+
+  }
+
+  @media (min-width: 768px) {
+    .social-media {
+        margin-left: -1.9rem;
+        margin-top: 2rem;
+    }
+
+    .ul2 {
+        color: brown;
+        margin-left: 1rem;
+        margin-top: 0rem;
+    }
+  }
+
+
+  @media (min-width: 992px) {
+    .social-media {
+        margin-left: 2.1rem;
+        margin-top: 2rem;
+    }
+  }
